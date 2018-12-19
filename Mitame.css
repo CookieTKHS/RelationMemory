@@ -1,0 +1,24 @@
+.title {
+    border-bottom: solid 2px #555;
+    text-align: center;
+}
+
+input#green {
+    padding: 5px 10px;
+    font-size: 1em;
+    background-color: green;
+    color: white;
+    border-style: none;
+}
+
+input#orange {
+    padding: 5px 10px;
+    font-size: 1em;
+    background-color: orange;
+    color: white;
+    border-style: none;
+}
+
+select {
+    width: 200px;
+}
