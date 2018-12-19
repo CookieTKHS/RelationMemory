@@ -1,2 +1,3 @@
 # RelationMemory
-soft wear engineering
+ソフトウェアエンジニアリング
+＃なんなのだこれわ…
